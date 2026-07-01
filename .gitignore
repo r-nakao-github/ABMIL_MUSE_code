@@ -1,0 +1,88 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter / logs
+# =========================
+.ipynb_checkpoints/
+*.log
+
+# =========================
+# OS / editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Local data and temporary folders
+# =========================
+datasets/
+data/
+tmp/
+temp/
+
+# =========================
+# Outputs
+# keep only an empty outputs/ directory
+# =========================
+outputs/*
+!outputs/.gitkeep
+
+# =========================
+# Generated model / result files
+# =========================
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+
+# =========================
+# Generated images and documents
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+
+# =========================
+# Generated CSV files
+# =========================
+*.csv
+
+# keep example metadata files
+!example_data/
+!example_data/train.csv
+!example_data/test.csv
+!example_data/README.md
+
+# =========================
+# Keep repository files
+# =========================
+!README.md
+!LICENSE
+!requirements.txt
+!configs/
+!configs/config.yaml
+!scripts/
+!modules/
