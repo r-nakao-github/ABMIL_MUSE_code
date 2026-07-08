@@ -332,6 +332,8 @@ If you use this code in your research, please cite the associated manuscript.
 
 Citation details will be added after publication.
 
+Code archive: https://doi.org/10.5281/zenodo.21257524
+
 ## License
 
 Unless otherwise noted, the code in this repository is released under the [MIT License](LICENSE).

@@ -5,5 +5,6 @@ authors:
   - family-names: "Nakao"
     given-names: "Ryuta"
 version: "1.0.0"
+doi: 10.5281/zenodo.21257524
 license: "MIT"
 repository-code: "https://github.com/r-nakao-github/ABMIL_MUSE_code"
