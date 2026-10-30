@@ -1,10 +1,42 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the associated manuscript. Full citation details will be added after publication."
+message: "If you use this software, please cite the associated research article."
 title: "ABMIL for Weakly Supervised Breast Cancer Classification on MUSE Images"
 authors:
   - family-names: "Nakao"
     given-names: "Ryuta"
 version: "1.0.0"
-doi: 10.5281/zenodo.21257524
+doi: "10.5281/zenodo.21257524"
 license: "MIT"
 repository-code: "https://github.com/r-nakao-github/ABMIL_MUSE_code"
+
+preferred-citation:
+  type: article
+  title: "Weakly supervised attention-based learning supports breast cancer detection on deep ultraviolet-excitation fluorescence images"
+  authors:
+    - family-names: "Nakao"
+      given-names: "Ryuta"
+    - family-names: "Matsui"
+      given-names: "Tomoya"
+    - family-names: "Abe"
+      given-names: "Masatoshi"
+    - family-names: "Honda"
+      given-names: "Mizuki"
+    - family-names: "Inamori"
+      given-names: "Osamu"
+    - family-names: "Takada"
+      given-names: "Ippei"
+    - family-names: "Harada"
+      given-names: "Yoshinori"
+    - family-names: "Morita"
+      given-names: "Midori"
+    - family-names: "Naoi"
+      given-names: "Yasuto"
+    - family-names: "Niioka"
+      given-names: "Hirohiko"
+    - family-names: "Takamatsu"
+      given-names: "Tetsuro"
+  journal: "Scientific Reports"
+  volume: 16
+  year: 2026
+  doi: "10.1038/s41598-026-63683-w"
+  url: "https://doi.org/10.1038/s41598-026-63683-w"

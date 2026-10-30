@@ -328,11 +328,12 @@ Depending on the script, the outputs may include:
 
 ## Citation
 
-If you use this code in your research, please cite the associated manuscript.
+If you use this code in your research, please cite the following article:
 
-Citation details will be added after publication.
+Nakao, R., Matsui, T., Abe, M. et al. Weakly supervised attention-based learning supports breast cancer detection on deep ultraviolet-excitation fluorescence images. Scientific Reports 16, 33582 (2026). https://doi.org/10.1038/s41598-026-63683-w
 
-Code archive: https://doi.org/10.5281/zenodo.21257524
+The code used in this study (v1.0.0) is archived on Zenodo:
+https://doi.org/10.5281/zenodo.21257524
 
 ## License
 
